@@ -1,4 +1,4 @@
-title: Your awesome title
+title: 杨荣的技术博客
 author:
   name: GitHub User
   email: yangrong.jxufe@gmail.com
@@ -17,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
 #    twitter: jekyllrb
-    github:  jekyll
+    github:  yangrong688
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -49,8 +49,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
