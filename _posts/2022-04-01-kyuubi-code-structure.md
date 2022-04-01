@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "test"
+title: "Apache Kyuubi源码结构"
 date: 2022-04-01 
 author: yangrong
-categories: test
+categories: kyuubi
 ---
 
 # Hello, Github!
