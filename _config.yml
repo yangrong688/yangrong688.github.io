@@ -1,11 +1,9 @@
 title: 杨荣的技术博客
 author:
   name: GitHub User
-  email: yangrong.jxufe@gmail.com
+  email: yangrong DOT jxufe AT gmail DOT com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Trying to be an excellent programmer.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
